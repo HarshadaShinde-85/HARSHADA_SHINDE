@@ -2,19 +2,19 @@
 
 🎓 MCA Student | 💻 Full Stack Developer | 🤖 Data Science Enthusiast  
 📍 Pune, India  
-🚀 Open to Internships & Entry-Level Software Developer
+🚀 Open to internships and entry-level opportunities in Machine Learning and Software Development.
 
 ---
 
 ## 🧐 About Me
 
-I am an MCA student passionate about building real-world applications using Full Stack Development and Machine Learning techniques.  
+I am an MCA student passionate about building real-world applications using Full Stack Development and Machine Learning techniques. 
 I enjoy developing intelligent prediction systems and data-driven web applications using Python, Flask, and modern technologies.
 
-🔭 Currently working on ML-based prediction systems and web applications  
+🔭 Currently working on web applications and ML-based prediction systems
 🌱 Learning Advanced Data Science, Full Stack Development, and Model Deployment  
 👯 Open to internships and collaboration opportunities  
-💬 Ask me about Python, Machine Learning, Flask APIs, SQL, and Web Development  
+💬 Ask me about Python, Machine Learning, SQL, and Web Development  
 📫 Email: harshushinde852004@gmail.com
 
 ---
@@ -55,6 +55,7 @@ Deloitte Data Analytics Job Simulation
 IBM Getting Started With Data  
 TCS iON Yuva AI For All  
 ExcelR Vibe Coding With AI
+IBM Machine Learning with Python - Level 1
 
 ---
 
