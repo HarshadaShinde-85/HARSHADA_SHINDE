@@ -55,7 +55,6 @@ Deloitte Data Analytics Job Simulation
 IBM Getting Started With Data  
 TCS iON Yuva AI For All  
 ExcelR Vibe Coding With AI
-IBM Machine Learning with Python - Level 1
 
 ---
 
