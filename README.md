@@ -68,4 +68,4 @@ harshushinde852004@gmail.com
 
 ---
 
-⭐ Actively building Full Stack applications and Machine Learning prediction systems for real-world problem solving
+⭐ Actively building Full Stack applications and Machine Learning prediction systems for real-world problem solving.
