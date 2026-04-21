@@ -14,8 +14,7 @@ I enjoy developing intelligent prediction systems and data-driven web applicatio
 🔭 Currently working on web applications and ML-based prediction systems
 🌱 Learning Advanced Data Science, Full Stack Development, and Model Deployment  
 👯 Open to internships and collaboration opportunities  
-💬 Ask me about Python, Machine Learning, SQL, and Web Development  
-📫 Email: harshushinde852004@gmail.com
+💬 Ask me about Python, Machine Learning, SQL, and Web Development.
 
 ---
 
