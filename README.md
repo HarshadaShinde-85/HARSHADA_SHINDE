@@ -49,11 +49,11 @@ GitHub | VS Code | Jupyter Notebook
 
 ## 📜 Certifications
 
-Oracle Certified AI Foundations Associate  
-Deloitte Data Analytics Job Simulation  
-IBM Getting Started With Data  
-TCS iON Yuva AI For All  
-ExcelR Vibe Coding With AI
+Oracle Certified AI Foundations Associate (Oracle)
+Data Analytics Job Simulation (Deloitte )
+Getting Started With Data  (IBM SkillBuild)
+Yuva AI For All    (TCS iON ) 
+Vibe Coding With AI  (ExcelR)
 
 ---
 
